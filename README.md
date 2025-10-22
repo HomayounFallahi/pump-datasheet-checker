@@ -21,16 +21,16 @@ This application provides a structured checklist of 27 critical verification ste
 ## App interface
 
 <div align="center">
-  <img src="/interface/1.png" alt="Light Mode" width="45%"/>
-  <img src="/interface/2.png" alt="Miniapp Mode" width="45%"/>
+  <img src="/interface/1.png" alt=" " width="45%"/>
+  <img src="/interface/2.png" alt=" " width="45%"/>
 </div>
 <div align="center">
-  <img src="/interface/3.png" alt="Light Mode" width="45%"/>
-  <img src="/interface/4.png" alt="Miniapp Mode" width="45%"/>
+  <img src="/interface/3.png" alt=" " width="45%"/>
+  <img src="/interface/4.png" alt=" " width="45%"/>
 </div>
 <div align="center">
-  <img src="/interface/5.png" alt="Light Mode" width="45%"/>
-  <img src="/interface/6.png" alt="Miniapp Mode" width="45%"/>
+  <img src="/interface/5.png" alt=" " width="45%"/>
+  <img src="/interface/6.png" alt=" " width="45%"/>
 </div>
 
 ## Features

